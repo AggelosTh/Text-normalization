@@ -60,4 +60,4 @@ The dataset consists of two parts:
 
 
 ## Run experiments:
-- To reproduce the implementation, simple execute the code blocks as described in the notebook.
+- To reproduce the implementation, simply execute the code blocks as described in the notebook.
