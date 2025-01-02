@@ -11,7 +11,6 @@ In the music industry, textual data about composition writers often contains red
 
 ## Technologies Used
 
-- Python 3.x
 - Ollama API
 - Llama3.1 model
 
